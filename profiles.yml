@@ -1,0 +1,13 @@
+# Example profiles.yml
+
+jaffle_shop:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: aneunpz-rm47814
+      user: high
+      password: Peak202394!
+      database: test
+      warehouse: compute_wh
+      schema: fb
