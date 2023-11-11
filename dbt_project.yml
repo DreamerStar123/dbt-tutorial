@@ -34,5 +34,3 @@ models:
   jaffle_shop:
     # Config indicated by + and applies to all files under models/example/
     +materialized: table
-    example:
-      +materialized: view
